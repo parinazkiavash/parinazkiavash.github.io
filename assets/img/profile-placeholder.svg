@@ -1,0 +1,15 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" rx="56" fill="#E7E0D2"/>
+  <rect x="48" y="48" width="1104" height="1304" rx="40" fill="url(#paint0_linear)"/>
+  <circle cx="600" cy="450" r="170" fill="#F4EFE7" stroke="#0D4D4C" stroke-opacity="0.14" stroke-width="8"/>
+  <path d="M330 1088C330 938.883 450.883 818 600 818C749.117 818 870 938.883 870 1088V1116H330V1088Z" fill="#F4EFE7" stroke="#0D4D4C" stroke-opacity="0.14" stroke-width="8"/>
+  <circle cx="600" cy="438" r="98" fill="#0D4D4C" fill-opacity="0.08"/>
+  <path d="M468 1054C485 949 534 894 600 894C666 894 715 949 732 1054" stroke="#0D4D4C" stroke-opacity="0.18" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="1252" text-anchor="middle" fill="#0D4D4C" fill-opacity="0.82" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700">Add headshot as assets/img/parinaz-headshot.jpg</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="112" y1="96" x2="1080" y2="1262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBF8F2"/>
+      <stop offset="1" stop-color="#E8E0D0"/>
+    </linearGradient>
+  </defs>
+</svg>
